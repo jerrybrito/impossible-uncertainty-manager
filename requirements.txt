@@ -1,0 +1,2 @@
+# Requires: paradoxical-uncertainty
+# (Not available on PyPI)
